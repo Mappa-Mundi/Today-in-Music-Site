@@ -1,2 +1,3 @@
 # Mappa-Mundi.github.io
-Privacy policy for Mappa Mundi Mobile app
+
+Mappa Mundi website for privacy policy and other information.

@@ -1,31 +1,26 @@
+<footer class="bg-primary text-white">
+  <div class="py-5 border-top">
+    <div class="container">
 
-<div class="py-5 border-top">
-  <div class="container">
+      <h1 class="h5 mb-3">Mappa Mundi</h1>
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
-
-    <div class="row">
-
-      <div class="col-sm">
-        <ul class="list-unstyled">
-          <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
+      <div class="row">
+        <div class="col-sm">
+          <ul class="list-unstyled">
+            <li>Socials/Contact</li>
             <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
+              <i class="fa-solid fa-envelope"></i>
+              <a href="mailto: contact@mappamundi.us">contact@mappamundi.us</a>
             </li>
-          {%- endif -%}
-        </ul>
+            <li>
+              <i class="fa-brands fa-instagram"></i>
+              <a href="https://www.instagram.com/mappamundi.llc/">MappaMundi.llc</a>
+            </li>
+          </ul>
+        </div>
+
       </div>
 
     </div>
-
   </div>
-</div>
+</footer>

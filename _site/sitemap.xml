@@ -2,14 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/end-user-license-agreement.html</loc>
-<lastmod>2023-06-20T19:48:31-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-<lastmod>2023-07-09T21:46:01-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/privacy-policy.html</loc>
-<lastmod>2023-06-20T16:15:36-06:00</lastmod>
 </url>
 </urlset>
